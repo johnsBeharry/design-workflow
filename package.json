@@ -1,0 +1,27 @@
+{
+  "name": "opensource-design",
+  "version": "0.1.0",
+  "description": "Bring transparency to the design process and bridge the divide between designers and developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnsBeharry/opensource-design.git"
+  },
+  "keywords": [
+    "opensource-design",
+    "ui",
+    "ux",
+    "atomic-design",
+    "design-systems",
+    "design-framework"
+  ],
+  "author": "Johns Beharry <johns@peakshift.com> (https://johnsbeharry.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/johnsBeharry/opensource-design/issues"
+  },
+  "homepage": "https://github.com/johnsBeharry/opensource-design#readme"
+}
