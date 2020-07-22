@@ -1,9 +1,11 @@
 # Opensource Design Workflow
-Testing ways to incorporate contributions by designers in Open Source.
+Testing ways to bridge the devide between designers and developers in Open Source projects.
 
 1. Atomic Design
 2. Figma
-3. Storybook
+3. Design System Explorders
+3a. Storybook (Javascript)
+3b. QML Explorer?
 
 #### Atomic Design - [Ref](https://atomicdesign.bradfrost.com/chapter-2/)
 
@@ -16,6 +18,14 @@ Framework for breaking down applications into smaller, composable components tha
 5. Organisms
 6. Templates
 7. Pages
+
+#### Design System Explorers
+
+##### Javascript
+- I recommend javascript projects look into Storybook.js for showing their components. There is support for React.js, React-Native, Vue.js and 
+
+##### Dart / Flutter
+- ...
 
 #### Implementations
 
